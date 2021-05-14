@@ -10,7 +10,7 @@ python3 FLIR-AX8_fileread.py -u http://127.0.0.1:1111 单个url测试
 python3 FLIR-AX8_fileread.py -c http://127.0.0.1:1111 cmdshell模式
 ![exp](./exp.png)
 
-python3 Apache_solr_fileread.py -f url.txt 批量检测
+python3 FLIR-AX8_fileread.py -f url.txt 批量检测
 
 ## 免责声明
 
